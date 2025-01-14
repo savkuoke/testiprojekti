@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World"
+    },
+    {
+      "id": "2c9e",
+      "title": "New Post"
+    },
+    {
+      "id": "e606",
+      "title": "New Post"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe"
+    }
+  ]
+}
